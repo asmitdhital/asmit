@@ -1,1 +1,1 @@
-printkuhkiyiuy
+print ("Hello man")
